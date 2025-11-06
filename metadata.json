@@ -1,0 +1,5 @@
+{
+  "name": "KVS AI Lesson Plan Generator",
+  "description": "An AI-powered tool for KVS teachers to automatically generate fortnightly lesson plans in the NCERT format by uploading a split-up syllabus.",
+  "requestFramePermissions": []
+}
